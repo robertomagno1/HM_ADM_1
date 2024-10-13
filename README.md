@@ -10,7 +10,7 @@ Each problem's solution has been developed individually as per the course's coll
 - `scripts.py`: Contains the solutions for all required challenges. The file is divided into sections for each problem area, clearly marked with comments.
 
 ### PDF Submissions
-- `/stamps`: Contains PDF printouts of the submissions page from HackerRank, validating the successful completion of the challenges.
+- `stamps`: Contains PDF printouts of the submissions page from HackerRank, validating the successful completion of the challenges.
 
 ### Problem Areas Covered
 1. **Introduction**
