@@ -46,8 +46,5 @@ Each problem's solution has been developed individually as per the course's coll
 - Birthday Cake Candles, Kangaroo, Viral Advertising, Recursive Digit Sum, Insertion Sort 1, and Insertion Sort 2.
 
 
-## Contact
-For any queries regarding this homework, please contact [Aris] directly with @Daniel and @Loris in CC.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
